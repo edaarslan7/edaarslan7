@@ -98,8 +98,8 @@ Githu</p>
 <div align="center">
   
   <br/> <div>
-<img src="https://github-readme-stats.vercel.app/api?username=edaarslan7&show_icons=true&bg_color=000000&title_color=FF8C00&text_color=FFFFFF&icon_color=FF8C00&border_color=FF8C00" alt="GitHub Stats">    
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=edaarslan7&date_format=M%20j%5B%2C%20Y%5D&theme=dark&background=000000&border=FF8C00&side_color=FF8C00&currstreak=FFFFFF&ring=FF8C00" alt="GitHub Streak">
+    <img src="https://github-readme-stats.vercel.app/api?username=edaarslan7&show_icons=true&bg_color=000000&title_color=FF8C00&text_color=FFFFFF&icon_color=FF8C00&border_color=FF8C00" alt="GitHub Stats">    
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=edaarslan7&date_format=M%20j%5B%2C%20Y%5D&theme=dark&background=000000&border=FF8C00&side_color=FF8C00&currstreak=FFFFFF&ring=FF8C00" alt="GitHub Streak">
   </div>
 
   <br/> <div>
@@ -120,10 +120,16 @@ Githu</p>
 
 <!-- Pacman part-->
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edaarslan7]/edaarslan7/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edaarslan7/edaarslan7/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/edaarslan7/edaarslan7/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edaarslan7/edaarslan7/output/dist/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edaarslan7/edaarslan7/output/dist/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/edaarslan7/edaarslan7/output/dist/pacman-contribution-graph.svg">
 </picture>
+<p align="center">
+    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" 
+         alt="Parlayan Turuncu Çizgi" 
+         width="100%" 
+         height="1.5px"  style="margin: 25px 0;">
+</p>
 
 <!-- Connect with me part-->
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">  <b>Connect with Me</b>
