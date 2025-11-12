@@ -118,7 +118,7 @@ Githu</p>
          height="1.5px"  style="margin: 25px 0;">
 </p>
 
-
+<!-- Pacman part-->
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edaarslan7]/edaarslan7/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edaarslan7/edaarslan7/output/pacman-contribution-graph.svg">
