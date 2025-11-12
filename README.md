@@ -71,11 +71,6 @@ While my main role is a DBA, I have a strong passion for game development. I cre
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
 
-###
-A white circle with a dark file icon outlined in the center
-Profile Readme Generator
-Developed and maintained by Mauro de Souza
-Githu</p>
 
 
 <!-- Orange Line part-->
@@ -96,20 +91,20 @@ Githu</p>
 </div>
 
 <div align="center">
-  
-  <br/> <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=edaarslan7&show_icons=true&bg_color=000000&title_color=FF8C00&text_color=FFFFFF&icon_color=FF8C00&border_color=FF8C00" alt="GitHub Stats">    
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=edaarslan7&date_format=M%20j%5B%2C%20Y%5D&theme=dark&background=000000&border=FF8C00&side_color=FF8C00&currstreak=FFFFFF&ring=FF8C00" alt="GitHub Streak">
-  </div>
+    <br/> 
+    <img src="https://github-readme-stats.vercel.app/api?username=edaarslan7&show_icons=true&bg_color=000000&title_color=FF8C00&text_color=FFFFFF&icon_color=FF8C00&border_color=FF8C00&width=400" alt="GitHub Stats"> 
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=edaarslan7&date_format=M%20j%5B%2C%20Y%5D&theme=dark&background=000000&border=FF8C00&side_color=FF8C00&currstreak=FFFFFF&ring=FF8C00&width=400" alt="GitHub Streak">
+    
+<br/> 
+    
+<div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edaarslan7&layout=compact&bg_color=000000&title_color=FF8C00&text_color=FFFFFF&border_color=FF8C00" alt="Top Languages">
+    </div>
 
-  <br/> <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edaarslan7&layout=compact&bg_color=000000&title_color=FF8C00&text_color=FFFFFF&border_color=FF8C00" alt="Top Languages">  </div>
-
-  <p>
-        <img src="https://github-profile-trophy.vercel.app/?username=edaarslan7&theme=onedark&border-color=000000&margin-w=15&margin-h=15&coloumn=3&row=1" alt="edaarslan7" />
-  </p>
+<p>
+        <img src="https://github-profile-trophy.vercel.app/?username=edaarslan7&theme=onedark&border-color=000000&margin-w=15&margin-h=15&coloumn=3&row=1" alt="edaarslan7" />
+    </p>
 </div>
-
 <!-- Orange Line part-->
 <p align="center">
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" 
