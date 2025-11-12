@@ -34,9 +34,66 @@ While my main role is a DBA, I have a strong passion for game development. I cre
 </p>
 
 
+<!-- Lang&Tools part-->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+   <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+</div>
+
+###
+A white circle with a dark file icon outlined in the center
+Profile Readme Generator
+Developed and maintained by Mauro de Souza
+Githu</p>
+
+
+<!-- Orange Line part-->
+<p align="center">
+    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" 
+         alt="OrangeLine" 
+         width="100%" 
+         height="1.5px"  style="margin: 25px 0;">
+</p>
+
+
 <!-- Github Stat part-->
 
 <img src="https://media.tenor.com/CbpeAQ249I0AAAAj/chiakiro-fox.gif" width="50px"> Time to dive into my GitHub Stats!
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=edaarslan7.edaarslan7&left_color=crimson&right_color=orange"  />
+</div>
 
 <div align="center">
   
@@ -61,6 +118,13 @@ While my main role is a DBA, I have a strong passion for game development. I cre
          height="1.5px"  style="margin: 25px 0;">
 </p>
 
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edaarslan7]/edaarslan7/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edaarslan7/edaarslan7/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/edaarslan7/edaarslan7/output/pacman-contribution-graph.svg">
+</picture>
+
 <!-- Connect with me part-->
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">  <b>Connect with Me</b>
 
@@ -76,5 +140,12 @@ While my main role is a DBA, I have a strong passion for game development. I cre
 </p>
 
 
-Here A Gift For Who Loves Foxes Like I Do! </br>
+Here's a gift for fellow fox lovers! </br>
 <img src='https://c.tenor.com/dYRQOIK9BhAAAAAd/tenor.gif' width="80px">
+
+
+
+
+
+
+
